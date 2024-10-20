@@ -1,2 +1,2 @@
-<h1 align="center"> Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </h1>
+<h1 align="center"> Hi there! <img src="https://media.tenor.com/sfXcvZAuxpEAAAAi/hatsune-miku-vocaloid.gif" width="50"/> </h1>
 
